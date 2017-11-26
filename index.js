@@ -26,5 +26,9 @@ function dec(a){
 }
 
 fucntion makeInt(a.toString()){
-  return a;
+  return parseInt(a);
+}
+
+function preserveDecimal('2.222'){
+  return 2.222;
 }
