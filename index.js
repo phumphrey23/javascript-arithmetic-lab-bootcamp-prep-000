@@ -25,10 +25,10 @@ function dec(a){
   return a-1;
 }
 
-fucntion makeInt('0x2328'){
-  return parseInt(0x2328);
+fucntion makeInt(n){
+  return parseInt(n);
 }
 
-function preserveDecimal(a){
-  return parseFloat(a);
+function preserveDecimal(n){
+  return parseFloat(n);
 }
