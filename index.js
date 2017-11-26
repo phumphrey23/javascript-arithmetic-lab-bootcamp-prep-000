@@ -25,7 +25,7 @@ function dec(a){
   return a-1;
 }
 
-fucntion makeInt(a.toString()){
+fucntion makeInt('a'){
   return parseInt(a);
 }
 
